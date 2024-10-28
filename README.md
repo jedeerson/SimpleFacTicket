@@ -2,7 +2,7 @@
 Trata-se de um sistema para gerenciamento e controle de chamados internos.
 
 ## Introdução
-O projeto em questão é um software para controle CRUD de chamados internos. Para rodar o projeto em sua máquina, deverá conter os seguintes requisitos:
+O projeto em questão é um software para controle CRUD de chamados internos, feito em Node.js + React + MySQL. Para rodar o projeto em sua máquina, deverá conter os seguintes requisitos:
 ```bash
 - Node.js
 ```
