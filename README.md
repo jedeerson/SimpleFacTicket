@@ -39,20 +39,13 @@ MYSQL_PASS=
 http://localhost:3000
 ```
 
-O projeto contém testes de unidade para garantir a consistência do código e das informações trafegadas. Para executar os testes, basta usar o comando:
-```bash
-npm test
-```
-
 ## Tecnologias e Conceitos Utilizados
 O projeto segue alguns padrões de projetos e conceitos de programação orientada á objetos. São eles:
-- [x] SOLID
-- [x] Factory
-- [x] Dependency Injection
-- [x] DDD
-- [x] MVC + S
-- [x] Unit Tests
-- [x] Autoload
-- [x] OO
-- [x] Environment Variables
+- [x] Node.js e MySQL para a lógica de back-end e armazenamento de dados
+- [x] React para o front-end dinâmico e eficiente
+- [x] Styled Components para estilização
+- [x] React Toastify para notificações
+- [x] Axios para comunicações entre front e back-end
+- [x] Conceitos: Arquitetura em camadas, MVC, e Design Responsivo
+
 
